@@ -9,4 +9,11 @@ export class Tab1Page {
 
   constructor() {}
 
+  ngOnInit(){
+
+    let numero = 10;
+    // debugger;
+    console.log("Hola Mundo")
+  }
+
 }
